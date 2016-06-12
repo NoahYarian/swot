@@ -1,0 +1,19 @@
+{
+  "name": "swot",
+  "version": "1.0.0",
+  "description": "Sometimes you've gotta lay it all out there, and why not make that easier?",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahYarian/swot.git"
+  },
+  "author": "Noah Yarian <Noah.Yarian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahYarian/swot/issues"
+  },
+  "homepage": "https://github.com/NoahYarian/swot#readme"
+}
